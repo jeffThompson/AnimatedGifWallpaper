@@ -3,7 +3,7 @@ Animated Gif Wallpaper
 
 Simple Java app to let you set animated GIFs as wallpaper (Mac only). Just drag and drop!
 
-Note: this is still a bit buggy, and may crash if you try to change files while running. Quit and relaunch should solve this. :)
+Note: this is still a bit buggy, and may crash if you try to change files while running. Quit and relaunch should solve this :)
 
 \- \- \-
 
